@@ -1,3 +1,13 @@
+# Table Of Contents.
+* Project Name
+* Author Information
+* Installation Requirements
+* Contributors
+* Description Of Project
+* Technology Used
+* Acknowlegment
+* Licence and Copyright information
+
 
 ![image](https://user-images.githubusercontent.com/85103605/121897241-d3c29f80-cd2a-11eb-91c5-c8634f28754b.png)
 ### ART AND EXCECUTION BY: ![image](https://user-images.githubusercontent.com/85103605/121527624-4538e000-ca03-11eb-92c8-269599237579.png)
@@ -20,6 +30,8 @@ The AKAN people have preserved their culture and customs by passing them down to
 
 ![image](https://user-images.githubusercontent.com/85103605/121933830-3ded3b80-cd4f-11eb-96b3-cb14d36c9585.png)
 
+#ACKNOWLEDGEMENT
+I would like to thank God for his providence of wisdom through the process of creation of this project.
 ###  LICENCE ®️ 
 ## MIT License
 
