@@ -5,7 +5,7 @@
 * Contributors
 * Description Of Project
 * Technology Used
-* Acknowlegment
+* Acknowlegment.
 * Licence and Copyright information.
 
 
