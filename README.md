@@ -3,7 +3,7 @@
 * Author Information
 * Installation Requirements
 * Contributors
-* Description Of Project
+* Description Of Project.
 * Technology Used
 * Acknowlegment.
 * Licence and Copyright information.
