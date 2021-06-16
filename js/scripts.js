@@ -1,9 +1,11 @@
+
 function naming(){
 
   var CC=parseInt(document.getElementById("main").value);
   var YY=parseInt(document.getElementById("name").value);
   var MM=parseInt(document.getElementById("Form").value);
   var DD=parseInt(document.getElementById("akan").value);
+
 
   var day=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
   var femaleNames=["Akosua", "Adwoa","Abenaa","Akua","Yaa"," Afua","Ama"];
@@ -13,11 +15,17 @@ function naming(){
       alert("No blank values allowed");
   }
 
-  var gender = document.querySelector('input[name="gender"]:checked').value;
-  var  dayOfTheWeek = parseInt( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) % 7;
 
+  var gender = document.querySelector('input[name="gender"]:checked').value;
+  var  myDay = parseInt( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) % 7;
+  var dayOfTheWeek = Math.floor(myDay);
+  console.log(CC)
+  console.log(YY)
+  console.log(MM)
+  console.log(DD)
   if(gender==="male") {
     if(dayOfTheWeek===0){
+      console.log(dayOfTheWeek)
       alert("You were born on: " + day[0]);
       alert("Your Akan name is: " + maleNames[0]);
     } else if(dayOfTheWeek===1){
@@ -64,4 +72,21 @@ function naming(){
       alert("Your Akan name is: " + femaleNames[6]);
     }
   }
+
+
+}
+
+function validate(){
+
+  var CC=document.getElementById("main");
+  var YY=document.getElementById("name");
+  var MM=document.getElementById("Form");
+  var DD=document.getElementById("akan");
+  // alert(DD.value)
+
+if((CC.value == "") || (YY.value == "") || (MM.value == "") || (DD.value == "")){
+  alert("Enter correct details")
+}else{
+  naming()
+}
 }
