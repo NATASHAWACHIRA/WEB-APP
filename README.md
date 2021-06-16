@@ -6,7 +6,7 @@
 * Description Of Project
 * Technology Used
 * Acknowlegment
-* Licence and Copyright information
+* Licence and Copyright information.
 
 
 ![image](https://user-images.githubusercontent.com/85103605/121897241-d3c29f80-cd2a-11eb-91c5-c8634f28754b.png)
