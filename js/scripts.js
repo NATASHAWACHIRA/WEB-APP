@@ -19,10 +19,7 @@ function naming(){
   var gender = document.querySelector('input[name="gender"]:checked').value;
   var  myDay = parseInt( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) % 7;
   var dayOfTheWeek = Math.floor(myDay);
-  console.log(CC)
-  console.log(YY)
-  console.log(MM)
-  console.log(DD)
+
   if(gender==="male") {
     if(dayOfTheWeek===0){
       console.log(dayOfTheWeek)
@@ -85,8 +82,15 @@ function validate(){
   // alert(DD.value)
 
 if((CC.value == "") || (YY.value == "") || (MM.value == "") || (DD.value == "")){
-  alert("Enter correct details")
-}else{
+  alert("Enter value")
+}
+if((MM.value <= 0) || (MM.value > 12) ){
+  alert("Enter correct month date")
+}
+if((DD.value <=0 ) ||(DD.value < 31) ){
+  alert("Enter correct day ")
+}
+else{
   naming()
 }
 }
