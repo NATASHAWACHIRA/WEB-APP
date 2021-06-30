@@ -8,34 +8,33 @@
 * Acknowlegment.
 * Licence and Copyright information.
 
+### ART AND EXCECUTION BY: 
+## Natasha Wachira✨
+## Matias Nyaga ✨
+## Naphtali Makori ✨
+## Wesley Carson ✨
 
-![image](https://user-images.githubusercontent.com/85103605/121897241-d3c29f80-cd2a-11eb-91c5-c8634f28754b.png)
-### ART AND EXCECUTION BY: ![image](https://user-images.githubusercontent.com/85103605/121527624-4538e000-ca03-11eb-92c8-269599237579.png)
-
-## NATASHA WACHIRA ✨
-## natashawachira03@gmail.com 
 
 
 
 ## ![image](https://user-images.githubusercontent.com/85103605/121528045-c55f4580-ca03-11eb-8566-0f6fdbd5c36f.png)INSTALLATION REQUIREMENTS
-The creation of this project requires installation of a text editor such as ATOM.⚛️
+The creation of this project requires installation of a text editor such as ATOM or Vscode.⚛️
+
 # Contributors:![image](https://user-images.githubusercontent.com/85103605/121559876-abcbf700-ca1f-11eb-80f2-f83599cf9741.png)
-Up to this point, there are by far no contributors to the making and design of this website. Therefore marking my first website during my course program at Moringa School on the 12th of June 2021.
+In the creation of dishi fiti,we, Natasha Wachira,Matias Nyaga,Naphtali Makori and Wesley Carson,in absentia, worked hand in hand to ensure the successfull completion of this project.
+
 
 # DESCRIPTION
-These are traditional naming systems that apply to children depending on factors surrounding their birth. Aside from being traditional methods of naming, AKAN names are easy conversation starters and ice breakers.
-The AKAN people have preserved their culture and customs by passing them down to their descendants hence transmitting knowledge and wisdom.
+Dishi fiti is a web-application that will aid a user in the planning/schedulling meals,accounting for what one eats as well as budgeting for your meal.
 
 
 
-![image](https://user-images.githubusercontent.com/85103605/121933830-3ded3b80-cd4f-11eb-96b3-cb14d36c9585.png)
-
-#ACKNOWLEDGEMENT
-I would like to thank God for his providence of wisdom through the process of creation of this project.
+# ACKNOWLEDGEMENT
+We would like to thank God for his providence of wisdom through the process of creation of this project.
 ###  LICENCE ®️ 
 ## MIT License
 
-Copyright (c) 2021 NATASHA WACHIRA
+Copyright (c) 2021 Dishi-fiti
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
