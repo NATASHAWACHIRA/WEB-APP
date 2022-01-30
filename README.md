@@ -30,7 +30,7 @@ The AKAN people have preserved their culture and customs by passing them down to
 
 ![image](https://user-images.githubusercontent.com/85103605/121933830-3ded3b80-cd4f-11eb-96b3-cb14d36c9585.png)
 
-#ACKNOWLEDGEMENT
+# ACKNOWLEDGEMENT
 I would like to thank God for his providence of wisdom through the process of creation of this project.
 ###  LICENCE ®️ 
 ## MIT License
